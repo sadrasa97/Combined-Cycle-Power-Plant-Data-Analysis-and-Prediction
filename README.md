@@ -99,8 +99,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost ucimlrepo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sadrasa97/ccpp-analysis.git
-cd ccpp-analysis
+git clone https://github.com/sadrasa97/Combined-Cycle-Power-Plant-Data-Analysis-and-Prediction.git
+cd Combined-Cycle-Power-Plant-Data-Analysis-and-Prediction
 ```
 
 ### Run the Notebook
