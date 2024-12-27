@@ -141,8 +141,6 @@ cd Combined-Cycle-Power-Plant-Data-Analysis-and-Prediction
 | Random Forest        | 0.0378                   | 0.0028                   | 0.95     |
 | XGBoost              | 0.0356                   | 0.0025                   | 0.96     |
 
-#### Predicted vs. Actual Target:
-![Predicted vs Actual](path/to/predicted_vs_actual.png)
 
 ---
 
